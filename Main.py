@@ -1,6 +1,4 @@
-__author__ = 'relax'
-
+__author__ = 'JohnPirr'
 world = 'World'
 print('Hello, ', world, '!')
-# input("\n\nНажмите Enter, чтобы продолжить.")
-# Comment :)
+
